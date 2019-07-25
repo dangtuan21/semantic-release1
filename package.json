@@ -1,7 +1,7 @@
 {
   "name": "semantic-release1",
   "version": "0.0.0-development",
-  "description": "this is demo",
+  "description": "this is demo of semantic release",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" ",
