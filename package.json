@@ -1,0 +1,23 @@
+{
+  "name": "semantic-release1",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangtuan21/semantic-release1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangtuan21/semantic-release1/issues"
+  },
+  "homepage": "https://github.com/dangtuan21/semantic-release1#readme",
+  "devDependencies": {
+    "semantic-release": "^15.13.18"
+  }
+}
