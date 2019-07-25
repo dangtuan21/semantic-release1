@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/dangtuan21/semantic-release1#readme",
   "devDependencies": {
+    "@semantic-release/npm": "^5.1.13",
     "semantic-release": "^15.13.18"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
   }
 }
