@@ -1,11 +1,12 @@
 {
-  "name": "semantic-release1-dangtuan21",
+  "name": "semantic-release-dangtuan21",
   "version": "0.0.0-development",
-  "description": "this is demo of semantic release",
+  "description": "this is demo of semantic release 2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" ",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release && npm publish",
+    "semantic-release2": "semantic-release --debug"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,6 @@
   },
   "homepage": "https://github.com/dangtuan21/semantic-release1#readme",
   "devDependencies": {
-    "@semantic-release/npm": "^5.1.13",
     "semantic-release": "^15.13.18"
   },
   "publishConfig": {
